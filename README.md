@@ -1,5 +1,6 @@
 ## Hey There!, I am Rahasya Chandan
 
+### I am data enthusiast passionate about uncovering insights from complex datasets using Python, R, SQL, and machine learning techniques. I specialize in exploratory analysis, bulding dashboard, and predictive modeling.
 
 <p>
   <a href="https://www.linkedin.com/in/rahasyachandan/" rel="nofollow noreferrer">
