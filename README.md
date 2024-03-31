@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername &layout=compact />
 <!--
 **rahasyac/rahasyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
