@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/R-22ADF6?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white" />
 </p>
 
 <!--
