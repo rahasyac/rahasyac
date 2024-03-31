@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white>
+
+<img src="[{BadgeURLHere}](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=whit)" />
 <!--
 **rahasyac/rahasyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
