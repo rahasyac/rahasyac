@@ -1,7 +1,12 @@
 ## Hey There!, I am Rahasya Chandan
 
 
-<img src="https://img.shields.io/badge/Linkedin=#0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+<p>
+  <a href="https://www.linkedin.com/rahasyac" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
+
 
 ### Skills
 
